@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoppersstop/static/css/main.2a716caf.css",
-    "main.js": "/shoppersstop/static/js/main.4c68b491.js",
+    "main.js": "/shoppersstop/static/js/main.fe04a6c9.js",
     "static/js/592.bb01528e.chunk.js": "/shoppersstop/static/js/592.bb01528e.chunk.js",
     "static/media/tissot_watch.jpg": "/shoppersstop/static/media/tissot_watch.78115f76abc8fbb20bad.jpg",
     "static/media/festina_watch.jpg": "/shoppersstop/static/media/festina_watch.c142bf3eafe65b56d738.jpg",
@@ -35,11 +35,11 @@
     "index.html": "/shoppersstop/index.html",
     "static/media/facebook.svg": "/shoppersstop/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
     "main.2a716caf.css.map": "/shoppersstop/static/css/main.2a716caf.css.map",
-    "main.4c68b491.js.map": "/shoppersstop/static/js/main.4c68b491.js.map",
+    "main.fe04a6c9.js.map": "/shoppersstop/static/js/main.fe04a6c9.js.map",
     "592.bb01528e.chunk.js.map": "/shoppersstop/static/js/592.bb01528e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a716caf.css",
-    "static/js/main.4c68b491.js"
+    "static/js/main.fe04a6c9.js"
   ]
 }
