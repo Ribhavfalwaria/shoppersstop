@@ -3,11 +3,11 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Shop from "./Components/Shop";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {  
   return (
-   <BrowserRouter>
+   <HashRouter>
     <section>
    <Header />
       <Routes>
@@ -18,7 +18,7 @@ function App() {
       </Routes>
       <Footer/>
     </section>
-    </BrowserRouter>
+    </HashRouter>
    
   );
 }
